@@ -1,0 +1,7 @@
+*settings.json
+bin/
+obj/
+Migrations/
+App.config
+.vs/
+*.pfx
